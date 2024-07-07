@@ -7,9 +7,7 @@ tags = ["NewYork"]
 image = "p1100363-min-1-.jpg"
 description = "Der erste Tag war aufregend und nervenzerreissend, doch auch sehr überwältigend und sehr ungewohnt. "
 +++
-# 6. Juli
-
-Aufgestanden um 4:00 Uhr um 5:40 Uhr den Bus zu erwischen, dann begann die ganze Reise. Oder vielleicht schon am Abend vorher als der letzte Koffer geschlossen wurde. Auf den Bus, auf den Zug, in Bern einmal umsteigen und dann heiss es schon «Nächster Halt: Zürich Flughafen». Da begann alles. All das, was heute passiert ist, bevor wir überhaupt ins Flugzeug gingen.
+Aufgestanden um 4:00 Uhr um 5:40 Uhr den Bus zu erwischen, dann begann die ganze Reise. Oder vielleicht schon am Abend vorher als der letzte Koffer geschlossen wurde. Auf den Bus, auf den Zug, in Bern einmal umsteigen und dann hiess es schon «Nächster Halt: Zürich Flughafen». Da begann alles. All das, was heute passiert ist, bevor wir überhaupt ins Flugzeug gingen.
 
 Zuerst Check-In. Wie immer eine Riesensache. Anna und Nick hatten einen Elektronischen Bordingpass mit zugeteiltem Sitz. Adi hatte zwar einen Sitzplatz doch keine Boardingkarte und Annelis hatte nichts. Guter Start, aber man kann darauf aufbauen. Also holten Anna und Nick ihre Kleber für an den Koffer. Also suchten wir einen Schalter, um die Probleme zu beheben. Adi bekam eine Bordkarte, doch Annelis hatte immer noch nichts. Angeblich braucht sie ein neues Visa, dass heisst die Chance das sie es auf den Flieger schafft flog weg. Also werden die Koffer etwas umgepackt das Anna, Nick und Adi alles Wichtige haben, denn es wurde nicht so gepackt das jeder sein Koffer hatte, sondern das in jedem Koffer von jedem Sachen sind, damit selbst wenn ein Koffer nicht ankommt wir noch Kleider haben. Natürlich war nicht Annelis Necessaire im Koffer von Annelis, sondern das von Nick also musste dies auch noch getauscht werden. Dann heisst es die drei Koffer aufgegeben und nach einer Lösung für Annelis suchen. Also rannten wir durch den halben Flughafen. Am Schalter musste man natürlich warten, da hat Adi selber versucht das Problem zu lösen. Und Tada: Erfolg. Annelis konnte doch noch einchecken. Also ging es wieder zum Schalter, um eine Bordkarte zu bekommen und auch noch den letzten Koffer auf die Reise zu schicken.
 
@@ -29,7 +27,7 @@ Kaum in Hotel angekommen haben wir es auch schon wieder verlassen, um zu erkunde
 
 ![](screenshot-2024-07-07-031553.png)
 
-Hier noch ein paaar Eindrücke des ersten Tages:
+Hier noch ein paar Eindrücke des ersten Tages:
 
 ![Variationen von Hochhäusern](screenshot-2024-07-07-131529.png)
 
