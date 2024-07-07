@@ -1,7 +1,7 @@
 +++
 title = "6. Juli"
 date = "2024-07-06"
-draft = true
+draft = false
 pinned = false
 tags = ["NewYork"]
 image = "p1100363-min-1-.jpg"
