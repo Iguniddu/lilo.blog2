@@ -1,5 +1,5 @@
 +++
-title = "6. Juli "
+title = "Example"
 date = "2024-07-06"
 draft = true
 pinned = false
