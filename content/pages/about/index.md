@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "Familie Mürner-Lauber"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
 ![](/img/default-author.jpg)
 
