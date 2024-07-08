@@ -5,6 +5,7 @@ draft = true
 pinned = false
 tags = ["NewYork"]
 image = "screenshot-2024-07-08-045816-1-1-.png"
+description = "Ground Zero, Stadtrundfahrt und Hamilton, das Musical"
 +++
 Die Nacht überstanden, ging es auf die Suche nach einer Bäckerei fürs Frühstück. Danach ging es ab zu einem Stop eines Hop-on-Hop-off-Busses. Kaum losgefahren, sahen wir das Flatiron-Gebäude. Leider hatte es ein Gerüst darum. 
 
