@@ -1,9 +1,10 @@
 +++
 title = "8. Juli "
 date = "2024-07-09"
-draft = true
+draft = false
 pinned = false
 tags = ["NewYork"]
+image = "screenshot-2024-07-09-032541.png"
 description = "Chinatown, Flussrundfahrt, One World Trade Center und SUMMIT-Gebäude "
 +++
 Heute sind wir wieder zeitig aufgestanden und haben uns was zu Frühstück gesucht. Danach nahmen wir die U-Bahn bis ins Quartier Chinatown. Dort ist die Zeit in den letzten Jahren einfach stehen geblieben. Laut Annelis hat sich da nichts verändert, seit sie vor 30 Jahren dort war. Nach Besichtigung Chinatown haben wir eine Flussrundfahrt gemacht. Die Fahrt ging nach Ellis Island, zur Freiheitsstatue und unter der Manhattan- und der Brooklyn Bridge durch. Wir hatten einen wunderbaren Ausblick auf die Statue. Nick konnte mit seiner super Kamera sogar so weit hinein zoomen, dass er den Text lesen konnte auf dem Buch im Arm der Statue.
