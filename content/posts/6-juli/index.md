@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["NewYork"]
 image = "p1100363-min-1-.jpg"
-description = "Der erste Tag war aufregend und nervenzerreissend, doch auch sehr überwältigend und  ungewohnt. "
+description = "Flug nach New York und Time Square"
 +++
 Aufgestanden um 4:00 Uhr, um 5:40 Uhr den Bus zu erwischen, so begann die ganze Reise. Oder vielleicht schon am Abend vorher, als der letzte Koffer geschlossen wurde. Auf den Bus, auf den Zug, in Bern einmal umsteigen und dann hiess es schon «Nächster Halt: Zürich Flughafen». Da begann alles. All das, was heute passiert ist, bevor wir überhaupt ins Flugzeug gingen.
 
