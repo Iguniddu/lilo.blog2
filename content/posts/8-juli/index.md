@@ -1,6 +1,6 @@
 +++
 title = "8. Juli "
-date = "2024-07-09"
+date = "2024-07-08"
 draft = false
 pinned = false
 tags = ["NewYork"]
