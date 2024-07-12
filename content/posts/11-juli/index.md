@@ -4,6 +4,7 @@ date = "2024-07-11"
 draft = true
 pinned = false
 tags = ["LosAngeles"]
+image = "screenshot-2024-07-12-184104.png"
 description = "Disneyland"
 +++
 Heute ging es endlich ins Disneyland. Wir freuten uns sehr. Es gibt 2 Parks, den Disneyland Park und den Disney California Adventure Park. Wir gingen zuerst in den Adventure Park, denn dort hat es mehr Bahnen.
