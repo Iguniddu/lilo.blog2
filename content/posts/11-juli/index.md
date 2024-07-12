@@ -29,6 +29,22 @@ Danach beschlossen wir uns aufzuteilen und Annelis ging in den Disneyland Park, 
 
 ![Mickey bei der Parade](screenshot-2024-07-12-185440.png)
 
+![](screenshot-2024-07-12-193743.png)
+
+![](screenshot-2024-07-12-193800.png)
+
+![Cinderella](screenshot-2024-07-12-193955.png)
+
+![Anna und Elsa](screenshot-2024-07-12-193937.png)
+
+![Pocahontas](screenshot-2024-07-12-194011.png)
+
+![Coco](screenshot-2024-07-12-193922.png)
+
+![Vaiana](screenshot-2024-07-12-193857.png)
+
+![](screenshot-2024-07-12-193842.png)
+
 Die Anderen gingen nun zum Marvel-Part des Parks. Dort standen wir zwar lange an aber es lohnte sich. 
 
 Darauf beschlossen auch wir uns Annelis anzuschliessen und den anderen Park zu besuchen. Drüben assen wir erst einmal zusammen. Dann machte sich Annelis wieder auf die Suchen nach Mickey und Minnie. Die Anderen besuchten eine Bahn. 
