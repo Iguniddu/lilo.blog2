@@ -4,10 +4,12 @@ draft = false
 image = "screenshot-2024-07-12-195601.png"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](screenshot-2024-07-12-195601.png)
 
-## My Name
+## Familie Mürner-Lauber
 
-mail@example.org
+Annelis, Adrian, Anna und Nick
 
-Here should be some info about me...
+
+
+Blog für ihre USA-Reise im Sommer 2024
