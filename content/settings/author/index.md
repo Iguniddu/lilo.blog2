@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Familie Mürner-Lauber"
-image = "/img/default-author.jpg"
+image = "/media/screenshot-2024-07-12-195601.png"
 url = "/about/"
 +++
