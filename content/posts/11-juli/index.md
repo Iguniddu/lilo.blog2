@@ -1,7 +1,7 @@
 +++
 title = "11. Juli "
 date = "2024-07-11"
-draft = true
+draft = false
 pinned = false
 tags = ["LosAngeles"]
 image = "screenshot-2024-07-12-184104.png"
@@ -59,6 +59,6 @@ Hier noch ein paar weitere Fotos vom Tag:
 
 ![Walt Disney mit Mickey](screenshot-2024-07-12-182522.png)
 
-![beleuchtetet Palmen bei uns vor dem Hotel ](screenshot-2024-07-12-185455.png)
+![Abendessen: Mickey-Form Brot mit Mac&Cheese](screenshot-2024-07-12-183402.png)
 
-b
+![beleuchtetet Palmen bei uns vor dem Hotel ](screenshot-2024-07-12-185455.png)
