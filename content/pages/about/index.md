@@ -1,7 +1,7 @@
 +++
 title = "Familie Mürner-Lauber"
-draft = true
-image = "/img/default-author.jpg"
+draft = false
+image = "screenshot-2024-07-12-195601.png"
 description = ""
 +++
 ![](/img/default-author.jpg)
