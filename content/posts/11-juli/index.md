@@ -3,7 +3,7 @@ title = "11. Juli "
 date = "2024-07-11"
 draft = false
 pinned = false
-tags = ["Los Angeles"]
+tags = ["LosAngeles"]
 image = "screenshot-2024-07-12-184104.png"
 description = "Disneyland"
 +++
