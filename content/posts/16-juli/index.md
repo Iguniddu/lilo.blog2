@@ -1,7 +1,7 @@
 +++
 title = "16. Juli"
 date = "2024-07-16"
-draft = true
+draft = false
 pinned = false
 tags = ["AntelopeCanyon"]
 image = "screenshot-2024-07-17-044100.png"
