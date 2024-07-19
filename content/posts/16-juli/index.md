@@ -3,7 +3,7 @@ title = "16. Juli"
 date = "2024-07-16"
 draft = false
 pinned = false
-tags = ["AntelopeCanyon"]
+tags = ["GrandCanyon", "AntelopeCanyon"]
 image = "screenshot-2024-07-17-044100.png"
 description = "Grand Canyon, Antelope Canyon, Horesshoe Bend, Glen Canyon Dam"
 +++
