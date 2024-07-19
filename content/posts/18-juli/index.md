@@ -3,7 +3,7 @@ title = "18. Juli"
 date = "2024-07-18"
 draft = false
 pinned = false
-tags = ["Arches"]
+tags = ["MonumentValley", "Arches"]
 image = "screenshot-2024-07-19-233757.png"
 description = "Monument Valley, Arches "
 +++
