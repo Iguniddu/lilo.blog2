@@ -1,7 +1,7 @@
 +++
 title = "20. Juli"
 date = "2024-07-20"
-draft = false
+draft = true
 pinned = false
 tags = ["Yellowstone"]
 image = "screenshot-2024-07-23-031702.png"
@@ -15,8 +15,6 @@ Heute ging es schon wieder früh los, um nach Salt Lake City zu fahren für den 
 
 ![Old Faithful](screenshot-2024-07-23-031310.png)
 
-
-
 ![](screenshot-2024-07-23-031554.png)
 
 ![](screenshot-2024-07-23-031420.png)
@@ -25,8 +23,10 @@ Heute ging es schon wieder früh los, um nach Salt Lake City zu fahren für den 
 
 ![](screenshot-2024-07-23-031340.png)
 
-![](screenshot-2024-07-23-031444.png)
+![](screenshot-2024-07-23-031543.png)
 
 ![](screenshot-2024-07-23-031457.png)
+
+![](screenshot-2024-07-23-031444.png)
 
 ![](screenshot-2024-07-23-031654.png)
