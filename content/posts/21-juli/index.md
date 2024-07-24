@@ -28,3 +28,11 @@ Danach gab es Mittagessen und wir wollten weiter auf dem Rundweg im Nationalpark
 ![](screenshot-2024-07-23-044842.png)
 
 ![](screenshot-2024-07-23-044849.png)
+
+![](screenshot-2024-07-23-044859.png)
+
+![](screenshot-2024-07-23-044905.png)
+
+![](screenshot-2024-07-23-052121.png)
+
+![](screenshot-2024-07-23-052204.png)
