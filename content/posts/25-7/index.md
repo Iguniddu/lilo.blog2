@@ -21,6 +21,40 @@ Zion:
 
 ![](screenshot-2024-07-26-030106.png)
 
+![](screenshot-2024-07-26-030841.png)
+
 Valley of Fire: 
 
 ![](screenshot-2024-07-26-030202.png)
+
+![](screenshot-2024-07-26-030228.png)
+
+![](screenshot-2024-07-26-030235.png)
+
+![](screenshot-2024-07-26-030252.png)
+
+![](screenshot-2024-07-26-030258.png)
+
+![](screenshot-2024-07-26-030311.png)
+
+![](screenshot-2024-07-26-030413.png)
+
+![](screenshot-2024-07-26-030438.png)
+
+![](screenshot-2024-07-26-030448.png)
+
+![](screenshot-2024-07-26-030550.png)
+
+![](screenshot-2024-07-26-030622.png)
+
+![](screenshot-2024-07-26-030643.png)
+
+![](screenshot-2024-07-26-030702.png)
+
+![](screenshot-2024-07-26-030744.png)
+
+![](screenshot-2024-07-26-030801.png)
+
+![](screenshot-2024-07-26-030811.png)
+
+![](screenshot-2024-07-26-181028.png)
