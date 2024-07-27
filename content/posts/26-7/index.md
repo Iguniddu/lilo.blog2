@@ -11,7 +11,7 @@ Heute fuhren wir nach Las Vegas. Schon ausserhalb sahen wir den Wahnsinn der Sta
 
 ![](screenshot-2024-07-27-200813.png)
 
-Am Abend gingen wir ins Zentrum von Las Vegas. Da wurden wir mit viel zu hellen Lichter, viel zu lauter Musik und viel zu vielen Menschen konfrontiert. Man wusste gar nicht wo hinschauen und aus dem Staunen kam man gar nicht heraus. Der Himmel war nicht dunkelblau, sondern immer so petroltürkis bis hellblau. Es ist krass, wie viel Strom da gebraucht wird. Es hat eine riesige Kugel, die leuchtet immer rundherum und wechselt die Bilder. In der Kugel soll ein Konzertsaal sein. der Stromverbrauch gleicht einer kleinen Stadt hat Nick gegoogelt. Es war unheimlich eindrücklich, doch es machte auch sehr müde. Da es den ganzen Tag so heiss war, hat es natürlich nicht unbedingt besser gemacht. Wir kamen am Ende todmüde zum Camper.
+Am Abend gingen wir ins Zentrum von Las Vegas. Da wurden wir mit viel zu hellen Lichter, viel zu lauter Musik und viel zu vielen Menschen konfrontiert. Man wusste gar nicht wo hinschauen und aus dem Staunen kam man gar nicht heraus. Der Himmel war nicht dunkelblau, sondern immer so petroltürkis bis hellblau. Es ist krass, wie viel Strom da gebraucht wird. Es hat eine riesige Kugel, die leuchtet immer rundherum und wechselt die Bilder. In der Kugel soll ein Konzertsaal sein. Der Stromverbrauch gleicht einer kleinen Stadt hat Nick gegoogelt. Es war unheimlich eindrücklich, doch es machte auch sehr müde. Es wurde nicht besser dadurch dass es den ganzen Tag so heiss war. Wir kamen am Ende todmüde zum Camper.
 
 ![](screenshot-2024-07-27-183450.png)
 
