@@ -1,7 +1,7 @@
 +++
 title = "25.7"
 date = "2024-07-25"
-draft = true
+draft = false
 pinned = false
 tags = ["Zion", "ValleofFire"]
 image = "screenshot-2024-07-26-030916.png"
