@@ -10,6 +10,4 @@ description = ""
 
 Annelis, Adrian, Anna und Nick
 
-
-
-Blog für ihre USA-Reise im Sommer 2024
+Blog für ihre Reisen ab Juli 2024
