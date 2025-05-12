@@ -2,11 +2,14 @@
 headless = true
 
 [[link]]
-title = "Home"
+title = "USA"
 url = "/"
+
+[[link]]
+title = "Bretagne"
+url = "/Bretagne/"
 
 [[link]]
 title = "About me"
 url = "/about/"
 +++
-
