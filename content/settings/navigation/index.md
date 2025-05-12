@@ -10,6 +10,6 @@ title = "Bretagne"
 url = "/Bretagne/"
 
 [[link]]
-title = "About me"
+title = "Wir"
 url = "/about/"
 +++
