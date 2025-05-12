@@ -2,7 +2,7 @@
 headless = true
 
 [[link]]
-title = "USA"
+title = "Home"
 url = "/"
 
 [[link]]
